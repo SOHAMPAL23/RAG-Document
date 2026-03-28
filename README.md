@@ -33,7 +33,7 @@ A complete, production-grade Retrieval-Augmented Generation (RAG) system for inv
    ```
 3. Configure environment variables in `backend/.env` (use `.env.example` as a template):
    ```env
-   NEON_DB_URL=postgresql://neondb_owner:npg_ilpN7GurMhC6@ep-misty-shadow-am5bkjpt-pooler.c-5.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+   NEON_DB_URL=
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
 4. Run the API server:
