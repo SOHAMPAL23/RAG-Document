@@ -29,7 +29,7 @@ function App() {
     <div className="h-screen flex flex-col bg-mesh text-white overflow-hidden">
       
       {/* ── Stock Ticker Bar ── */}
-      <Ticker />
+      {/* <Ticker /> */}
 
       {/* ── Main Layout ── */}
       <div className="flex flex-1 overflow-hidden p-4 gap-4">
